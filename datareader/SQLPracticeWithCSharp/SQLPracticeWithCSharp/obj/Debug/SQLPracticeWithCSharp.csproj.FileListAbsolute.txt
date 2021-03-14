@@ -1,0 +1,20 @@
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe.config
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.pdb
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csprojAssemblyReference.cache
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Form1.resources
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Properties.Resources.resources
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.GenerateResource.cache
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.CoreCompileInputs.cache
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.exe
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.pdb
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe.config
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.pdb
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csprojAssemblyReference.cache
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Form1.resources
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Properties.Resources.resources
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.GenerateResource.cache
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.CoreCompileInputs.cache
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.exe
+D:\marik\second_year\sem_b\Full-stack-nir\datareader\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.pdb
